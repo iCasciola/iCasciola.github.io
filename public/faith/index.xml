@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Faith on The Shattered Lands of Tu&#39;um  Mundi</title>
+    <link>http://localhost:1313/faith/</link>
+    <description>Recent content in Faith on The Shattered Lands of Tu&#39;um  Mundi</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/faith/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Organized Faiths</title>
+      <link>http://localhost:1313/faith/organized/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/faith/organized/</guid>
+      <description>&lt;h1 id=&#34;draconic-cults&#34;&gt;Draconic Cults:&lt;/h1&gt;&#xA;&lt;p&gt;The largest group of faithful are dragon worshippers. Going by many names and each with their own unique creeds, followers worship the ancient dragons, seeking out mighty works and old wisdom. Some of them latch on to a modern dragon as a connection to the ancients, elevating them to a divine creature.&lt;/p&gt;&#xA;&lt;h1 id=&#34;crown&#34;&gt;Crown:&lt;/h1&gt;&#xA;&lt;p&gt;The second largest faith, they believe those with Crowns are living gods, divine beings with unimaginable power they use to shape the world to their liking.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
