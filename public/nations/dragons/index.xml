@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dragons on The Shattered Lands of Tu&#39;um  Mundi</title>
+    <link>http://localhost:1313/nations/dragons/</link>
+    <description>Recent content in Dragons on The Shattered Lands of Tu&#39;um  Mundi</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/nations/dragons/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bright Queen Thela</title>
+      <link>http://localhost:1313/nations/dragons/bright-queen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/nations/dragons/bright-queen/</guid>
+      <description>&lt;p&gt;The large domain of the Bright Queen Thela, mostly covered by the Thel Forest. The fast flowing Strik River runs through it&amp;rsquo;s center and connects its largest cities. It&amp;rsquo;s northern edge disappears into the Void.&lt;/p&gt;&#xA;&lt;h1 id=&#34;population&#34;&gt;Population&lt;/h1&gt;&#xA;&lt;p&gt;The land has a population of just over a million people total spread throughout several hundred towns and burgs, most of which are unnamed, and a few dozen large towns and less than five major cities.&#xA;Thel Forest  is populated mostly by elves  living in their ancestral homes, with the edges of the forest colonized by  Humans .&#xA;The mountains to the north and to the west are homes to distinct clans of  Dwarves .&#xA;The plains to the northeast are homes to families of  Halflings  while the hills to the southwest are homes to  Gnomes .&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Witch King</title>
+      <link>http://localhost:1313/nations/dragons/witch-king/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/nations/dragons/witch-king/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
