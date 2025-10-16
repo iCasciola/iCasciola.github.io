@@ -8,6 +8,13 @@
     <language>en-us</language>
     <atom:link href="http://localhost:1313/character-creation/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Quick Start</title>
+      <link>http://localhost:1313/character-creation/quick-start/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/character-creation/quick-start/</guid>
+      <description>&lt;p&gt;Read this page if you don&amp;rsquo;t really want to read all of the lore. This page is the absolute basics you need to know for creating a character.&lt;/p&gt;&#xA;&lt;h3 id=&#34;the-world&#34;&gt;The World&lt;/h3&gt;&#xA;&lt;p&gt;All that remains after a great war 1000 years ago is a single continent, surrounded by the void on all  sides.&lt;/p&gt;&#xA;&lt;h3 id=&#34;nations&#34;&gt;Nations&lt;/h3&gt;&#xA;&lt;p&gt;The world is divided between 7 nations led by god-kings who possess extremely powerful Crowns, and free peoples who live between their borders.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Races</title>
       <link>http://localhost:1313/character-creation/races/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

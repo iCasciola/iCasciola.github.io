@@ -11,6 +11,6 @@ This is world, a story, about Power, about Violence, and having the Will to chan
 ---
 
 ### Themes
-The Goal of this campaign is to be about Power, in all its shapes, good and bad. I intend for you to become the rulers of a people and grow your influence throughout the campaign - to what end? I leave that to you.
+This campaign is about Power, in all its shapes, good and bad. I intend for you to become the rulers of a people and grow your influence throughout the campaign - to what end? I leave that to you.
 
 The campaign is meant to be heavily driven by your goals and actions. Sandbox-ish. To this, I promise that wherever you go, I will give you adventure, but I ask that you meet the work I put into making this campaign by being active participants in the world.

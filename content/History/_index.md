@@ -27,9 +27,9 @@ Kingdoms begin to pop up over the world, each headed by a powerful Dragon with a
 ## The Fourth Era - War
 #### (200 Years)
 
-The Dragons begin to understand what sort of power they wield and what their contemporaries wield. Small wars at first, but eventually, every single nation has some sort of war going with some other nation. One of them rises above the others, the Dragon gets three Crowns, an unprecedented number, and begins beating all the other nations. [The Tricorn King](The%20Tricorn%20King) The rest all team up to fight this new tyrant, and in a final battle, the world shatters and the crowns are lost, spread to the four winds. The only surviving Dragon is Thela, the Bright Queen.
+The Dragons begin to understand what sort of power they wield and what their contemporaries wield. Small wars at first, but eventually, every single nation has some sort of war going with some other nation. One of them rises above the others, the Dragon gets three Crowns, an unprecedented number, and begins beating all the other nations. The Tricorn King. The rest all team up to fight this new tyrant, and in a final battle, the world shatters and the crowns are lost, spread to the four winds. The only surviving Dragon is Thela, the Bright Queen.
 
 ## The Fifth Era - The Shattered World
 #### (1,000 Years)
 
-The current age. <!-- The world is chaos, Crowns switch heads in less than 10 years on average. Nations have barely enough time to form before they are ripped apart by civil war again. But the people are ambitious. In the cultural consciousness they remember the world before the shattering, and the people are ready to fight. -->
+The current age. In the shattering of the last age, humanity has been reset, and now fights to survive again in this new age. <!-- The world is chaos, Crowns switch heads in less than 10 years on average. Nations have barely enough time to form before they are ripped apart by civil war again. But the people are ambitious. In the cultural consciousness they remember the world before the shattering, and the people are ready to fight. -->
