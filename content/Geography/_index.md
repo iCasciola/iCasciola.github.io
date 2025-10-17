@@ -1,5 +1,5 @@
 ---
-title: "Nations"
+title: "Geography"
 weight: 10
 ---
 The world as a whole is divided between the nation states ruled by the Dragons, and free nations in between their borders.

@@ -1,7 +1,7 @@
 ---
-title: "Bright Queen Thela"
+title: "Thel"
 ---
-The large domain of the Bright Queen Thela, mostly covered by the Thel Forest. The fast flowing Strik River runs through it's center and connects its largest cities. It's northern edge disappears into the Void.
+Thel, the large domain of the Bright Queen Thela, mostly covered by the Thel Forest. The fast flowing Strik River runs through it's center and connects its largest cities. It's northern edge disappears into the Void.
 
 # Population
 The land has a population of just over a million people total spread throughout several hundred towns and burgs, most of which are unnamed, and a few dozen large towns and less than five major cities. 
@@ -10,7 +10,7 @@ The mountains to the north and to the west are homes to distinct clans of  Dwarv
 The plains to the northeast are homes to families of  Halflings  while the hills to the southwest are homes to  Gnomes .
 
 # Outside the Borders
-The land between the Bright Queen's land and the  Land of the Sword King  is filled with nomadic tribes of orcs and dragonborn, with  Oberpoint  serving as an established city in the center of the Badlands.
+The land between Thel and Sola is filled with nomadic tribes of orcs and dragonborn, with  Oberpoint  serving as an established city in the center of the Badlands.
 The land between the Bright Queen's land and the  Land of the Grass Queen  is settled and rules by a king with no  Crowns  who rules from  The Twin Cities 
 
 # Quality of Life

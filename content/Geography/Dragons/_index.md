@@ -10,7 +10,7 @@ Elf. A dedicated swordsman who killed the last Dragon in her sleep, becoming the
 
 
 ### Smith King Dravon
-Dwarf. He found his crown while searching for a mithral vein in a forgotten dungeon, and he uses his Crown to create artifacts of immense power. Rules over an empire of creation that creates incredible wealth, but is run by a council filled with people he picked.
+Dwarf. He found his crown while searching for a mithral vein in a forgotten dungeon, and he uses his Crown to create artifacts of immense power. Rules over an empire of creation that generates incredible wealth, but is run by a council filled with people he picked.
 
 ### Grass Queen Losara
 Halfling. Found her Crown at the top of a mountain on the skull of its previous owner. Rules an incredibly peaceful nation and uses her power to grow great amounts of crop: food, materials, flowers. A great farmer before she ever got her Crown, she rules as a dictator and demands non-violence.
