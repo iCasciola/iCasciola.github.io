@@ -1,13 +1,13 @@
 ---
-title: "Dragons"
+title: "Dragon's Land"
 ---
+Dragons are the becrowned rulers of the majority of the world. Crowns change hands often, and barring a few years of rebellion over the change in leadership, the terroritory doesn't grow or shrink much.
 
 ### Witch King Gil-Ger-Ach
 Human. Before ever getting his Crown he was a great mage. He took his Crown by force from the King who came before, winning it in a duel. He used his newfound power to become the greatest mage in existence. His country is very ordered and hordes the knowledge and wealth that it creates and finds.
 
 ### Sword King Solomon
 Elf. A dedicated swordsman who killed the last Dragon in her sleep, becoming the strongest fighter in the land. He put in place few rules and lets the country run as it will - Anarchy.
-
 
 ### Smith King Dravon
 Dwarf. He found his crown while searching for a mithral vein in a forgotten dungeon, and he uses his Crown to create artifacts of immense power. Rules over an empire of creation that generates incredible wealth, but is run by a council filled with people he picked.
@@ -22,4 +22,4 @@ Elf. An adventurer cursed by a great magical beast, she killed the last Dragon t
 Human. Longest ruling Dragon, found her crown in a dragon's hoard before the Shattering, and used it to create a powerful and lasting empire.
 
 ### Novaral The Rebel
-Tiefling. Took their Crown in a fair fight after challenging their emperor, who they were a consort for before. Used it to become an incredibly powerful fighter. Shaping their body and their lands to be the shape they desired.
+Tiefling. Took their Crown in a fair fight after challenging their emperor, who they were a consort for before. Used it to become an incredibly powerful fighter.
