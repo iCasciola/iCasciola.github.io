@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Geography on The Shattered Lands of Tu&#39;um  Mundi</title>
-    <link>http://localhost:1313/geography/</link>
+    <link>//localhost:1313/geography/</link>
     <description>Recent content in Geography on The Shattered Lands of Tu&#39;um  Mundi</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/geography/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/geography/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Grave</title>
-      <link>http://localhost:1313/geography/grave/</link>
+      <link>//localhost:1313/geography/grave/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/geography/grave/</guid>
+      <guid>//localhost:1313/geography/grave/</guid>
       <description>&lt;p&gt;Where once was the greatest city in human history, remains a sunken crater the size of a small country. Situated between the Poltec Sea and the Gulf of Miracle, only narrow land passasges remain to the west and east of grave, connecting the northern and southern regions of the continent.&lt;/p&gt;&#xA;&lt;p&gt;Chaotic magic collects in the basin, and wickedly powerful monsters spawn out of the waters that stagnate there. The creatures protect the last of the great empire&amp;rsquo;s extremely vast wealth.&lt;/p&gt;</description>
     </item>
   </channel>
