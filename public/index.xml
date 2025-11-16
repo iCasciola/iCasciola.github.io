@@ -8,18 +8,32 @@
     <language>en-us</language>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Bright Queen Thela</title>
-      <link>http://localhost:1313/nations/dragons/bright-queen/</link>
+      <title>Centra</title>
+      <link>http://localhost:1313/geography/dragons/centra/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/nations/dragons/bright-queen/</guid>
-      <description>&lt;p&gt;The large domain of the Bright Queen Thela, mostly covered by the Thel Forest. The fast flowing Strik River runs through it&amp;rsquo;s center and connects its largest cities. It&amp;rsquo;s northern edge disappears into the Void.&lt;/p&gt;&#xA;&lt;h1 id=&#34;population&#34;&gt;Population&lt;/h1&gt;&#xA;&lt;p&gt;The land has a population of just over a million people total spread throughout several hundred towns and burgs, most of which are unnamed, and a few dozen large towns and less than five major cities.&#xA;Thel Forest  is populated mostly by elves  living in their ancestral homes, with the edges of the forest colonized by  Humans .&#xA;The mountains to the north and to the west are homes to distinct clans of  Dwarves .&#xA;The plains to the northeast are homes to families of  Halflings  while the hills to the southwest are homes to  Gnomes .&lt;/p&gt;</description>
+      <guid>http://localhost:1313/geography/dragons/centra/</guid>
+      <description>&lt;p&gt;The land of The Witch King.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Dizazhra Mountain People</title>
-      <link>http://localhost:1313/nations/free-peoples/dizazhra/</link>
+      <link>http://localhost:1313/geography/free-peoples/dizazhra/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/nations/free-peoples/dizazhra/</guid>
-      <description>&lt;p&gt;Though the Smith King and his people rule in the Dizazhra Mines, overhead, the mountain folk remain independent, with dozens of distinct tribes. They have a long history of warring for land and resources. However, when foreign groups try to invade, many  tribes will ally and mount a dangerous defnse. With access to high quality steel at the surface, they have often enjoyed superior weaponry and armor, and in the post shattering have tightly kept secret techniques for making advanced firearms and gunpowerder&lt;/p&gt;</description>
+      <guid>http://localhost:1313/geography/free-peoples/dizazhra/</guid>
+      <description>&lt;p&gt;Though the Smith King and his people rule in the Dizazhra Mines, overhead, the mountain folk remain independent, with dozens of distinct tribes. They have a long history of warring for land and resources. However, when foreign groups try to invade, many  tribes will ally and mount a dangerous defense. With access to high quality steel at the surface, they have often enjoyed superior weaponry and armor, and in the post shattering have tightly kept secret techniques for making advanced firearms and gunpowder&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Grave</title>
+      <link>http://localhost:1313/geography/grave/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/geography/grave/</guid>
+      <description>&lt;p&gt;Where once was the greatest city in human history, remains a sunken crater the size of a small country. Situated between the Poltec Sea and the Gulf of Miracle, only narrow land passasges remain to the west and east of grave, connecting the northern and southern regions of the continent.&lt;/p&gt;&#xA;&lt;p&gt;Chaotic magic collects in the basin, and wickedly powerful monsters spawn out of the waters that stagnate there. The creatures protect the last of the great empire&amp;rsquo;s extremely vast wealth.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mithral</title>
+      <link>http://localhost:1313/geography/dragons/mithral/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/geography/dragons/mithral/</guid>
+      <description>&lt;p&gt;The land of the Smith King&lt;/p&gt;</description>
     </item>
     <item>
       <title>Organized Faiths</title>
@@ -43,24 +57,45 @@
       <description>&lt;p&gt;Fill this out when we decide what system to use&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Storm Riders</title>
-      <link>http://localhost:1313/nations/free-peoples/storm-riders/</link>
+      <title>Sola</title>
+      <link>http://localhost:1313/geography/dragons/sola/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/nations/free-peoples/storm-riders/</guid>
+      <guid>http://localhost:1313/geography/dragons/sola/</guid>
+      <description>&lt;p&gt;The land of The Sword King&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Storm Riders</title>
+      <link>http://localhost:1313/geography/free-peoples/storm-riders/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/geography/free-peoples/storm-riders/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;DM! DM! Can I be one of these guys??&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Of course! As you can see, there is very little info below, just ask me for more info and I&amp;rsquo;ll send you more lore, and we can figure out why your not chilling in the clouds&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Extremely little is known about these peoples.In the modern period, the Storm Riders seem closer to a large cult than they do an esteemed civilization. They hide in the clouds and are essentially unknown to the rest of the world. They worship a god they call Sturm, and wield powerful  magics based on storms. Lightning, wind, and rain are their favored materials.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>The Witch King</title>
-      <link>http://localhost:1313/nations/dragons/witch-king/</link>
+      <title>The Great Library</title>
+      <link>http://localhost:1313/geography/free-peoples/library/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/nations/dragons/witch-king/</guid>
-      <description></description>
+      <guid>http://localhost:1313/geography/free-peoples/library/</guid>
+      <description>&lt;p&gt;A city in its own right, The Great Library has existed since before the shattering war. They have a headquarters in the North of the continent, but have hundreds of smaller outposts where scholars gather to collect and study ancient tomes, conduct research, and hoard knowledge scattered throughout the continent.&lt;/p&gt;&#xA;&lt;p&gt;In general, they act as a mostly benevolent force. As an organization they have no push towards accumulating power (in the traditional sense), though some individuals may try and steer them that way.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Voice of the World</title>
+      <link>http://localhost:1313/faith/votw/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/faith/votw/</guid>
+      <description>&lt;p&gt;A mysterious force exists in the world, perhaps the closest things to actual gods that exist in the Shattered Lands. There seem to be spirits of a kind that inhabit the lands, and sometimes they can speak to the mortals of this world. For most the speech is incomprehensible, closer to a random feeling they get nudging them one way or another, but sometimes the spirit speaks up, and its voice can be heard like a whisper deep in your head.&#xA;This manifests in different ways. Perhaps somewhere in a city, violence is going to take place, folks might hear the city telling them to avoid a certain street. A forest might whisper of the monster that lurks deep within, or a mountain might carry word of what it sees on top of its peak.&#xA;It takes practice to be able to hear the voice at will, most people will likely only hear it a few times in their life when it is loud, and they are unlikely to comprehend or know they&amp;rsquo;ve heard it at all.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Thel</title>
+      <link>http://localhost:1313/geography/dragons/thel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/geography/dragons/thel/</guid>
+      <description>&lt;p&gt;Thel, the large domain of the Bright Queen Thela, mostly covered by the Thel Forest. The fast flowing Strik River runs through it&amp;rsquo;s center and connects its largest cities. It&amp;rsquo;s northern edge disappears into the Void.&lt;/p&gt;&#xA;&lt;h1 id=&#34;population&#34;&gt;Population&lt;/h1&gt;&#xA;&lt;p&gt;The land has a population of just over a million people total spread throughout several hundred towns and burgs, most of which are unnamed, and a few dozen large towns and less than five major cities.&#xA;Thel Forest  is populated mostly by elves  living in their ancestral homes, with the edges of the forest colonized by  Humans .&#xA;The mountains to the north and to the west are homes to distinct clans of  Dwarves .&#xA;The plains to the northeast are homes to families of  Halflings  while the hills to the southwest are homes to  Gnomes .&lt;/p&gt;</description>
     </item>
     <item>
       <title>Twin Cities</title>
-      <link>http://localhost:1313/nations/free-peoples/twin-cities/</link>
+      <link>http://localhost:1313/geography/free-peoples/twin-cities/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/nations/free-peoples/twin-cities/</guid>
+      <guid>http://localhost:1313/geography/free-peoples/twin-cities/</guid>
       <description>&lt;p&gt;Two cities whose hearts are seperated by a days carriage ride on paved stone, their outskirts stretch to touch each other, intermingling in the middle. Their centers are guarded by two sets of walls and dozens guard towers.&lt;/p&gt;&#xA;&lt;p&gt;The southern city is called Port Miracle, situated on the Gulf of Miracle it started as a collection of fishing towns, with a high amount of trade. They combined and built a fort to protect themselves and continued to grow, eventually expanding outside their defensive walls.&#xA;The northern city is called Siegetown. It started as the military camp for a three year siege against Port Miracle by the Tricorn King. Now, it is home to many schools of combat and the city has a deep history of martial prowess.&lt;/p&gt;</description>
     </item>
   </channel>

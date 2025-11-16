@@ -2,36 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/nations/</loc>
+    <loc>http://localhost:1313/geography/</loc>
   </url><url>
     <loc>http://localhost:1313/history/</loc>
   </url><url>
     <loc>http://localhost:1313/faith/</loc>
   </url><url>
-    <loc>http://localhost:1313/nations/dragons/bright-queen/</loc>
-  </url><url>
     <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/geography/dragons/centra/</loc>
   </url><url>
     <loc>http://localhost:1313/character-creation/</loc>
   </url><url>
-    <loc>http://localhost:1313/nations/free-peoples/dizazhra/</loc>
+    <loc>http://localhost:1313/geography/free-peoples/dizazhra/</loc>
   </url><url>
-    <loc>http://localhost:1313/nations/dragons/</loc>
+    <loc>http://localhost:1313/geography/dragons/</loc>
   </url><url>
-    <loc>http://localhost:1313/nations/free-peoples/</loc>
+    <loc>http://localhost:1313/geography/free-peoples/</loc>
+  </url><url>
+    <loc>http://localhost:1313/geography/grave/</loc>
   </url><url>
     <loc>http://localhost:1313/</loc>
   </url><url>
+    <loc>http://localhost:1313/geography/dragons/mithral/</loc>
+  </url><url>
     <loc>http://localhost:1313/faith/organized/</loc>
+  </url><url>
+    <loc>http://localhost:1313/character-creation/quick-start/</loc>
   </url><url>
     <loc>http://localhost:1313/character-creation/races/</loc>
   </url><url>
-    <loc>http://localhost:1313/nations/free-peoples/storm-riders/</loc>
+    <loc>http://localhost:1313/geography/dragons/sola/</loc>
+  </url><url>
+    <loc>http://localhost:1313/geography/free-peoples/storm-riders/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/nations/dragons/witch-king/</loc>
+    <loc>http://localhost:1313/geography/free-peoples/library/</loc>
   </url><url>
-    <loc>http://localhost:1313/nations/free-peoples/twin-cities/</loc>
+    <loc>http://localhost:1313/faith/votw/</loc>
+  </url><url>
+    <loc>http://localhost:1313/geography/dragons/thel/</loc>
+  </url><url>
+    <loc>http://localhost:1313/geography/free-peoples/twin-cities/</loc>
   </url>
 </urlset>
