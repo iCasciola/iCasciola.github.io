@@ -1,0 +1,4 @@
+---
+title: Brathe
+---
+Land of Novarel, the Rebel. They have only been in power for a few years, having usurped the previous Dragon by leading a rebellion that swept through the country. The land is mostly covered by the Kres Forest, a large temperate forest with tall, wide trees, populated mostly by elves. The last Dragon ruled as a tyrant, demanding hostages from any family that had any amount of power he founbd threatening, and used his Praetorians as the long arm of his law. Even now, civil war still wages aas Novarel tries to bring every city and town back into the fold and fights against the old loyalists.

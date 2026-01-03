@@ -8,6 +8,10 @@
   </url><url>
     <loc>//localhost:1313/faith/</loc>
   </url><url>
+    <loc>//localhost:1313/faith/abstracts/</loc>
+  </url><url>
+    <loc>//localhost:1313/geography/dragons/brathe/</loc>
+  </url><url>
     <loc>//localhost:1313/categories/</loc>
   </url><url>
     <loc>//localhost:1313/geography/dragons/centra/</loc>
@@ -31,6 +35,8 @@
     <loc>//localhost:1313/geography/dragons/mithral/</loc>
   </url><url>
     <loc>//localhost:1313/faith/organized/</loc>
+  </url><url>
+    <loc>//localhost:1313/geography/dragons/paradisi/</loc>
   </url><url>
     <loc>//localhost:1313/character-creation/quick-start/</loc>
   </url><url>

@@ -8,6 +8,20 @@
     <language>en-us</language>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Abstracts</title>
+      <link>//localhost:1313/faith/abstracts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/faith/abstracts/</guid>
+      <description>&lt;p&gt;These beings/faiths are more than the other religions, their influence is observed and provable, yet they are definitevly less than gods, and decidedly different from the Dragons. No one can be quite sure if they are good or evil, helpful or harmful, human or monster. But they are real, and they are powerful. Often feared and worshipped in equal measure, they are the favored subjects of niche cults and small temples.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Brathe</title>
+      <link>//localhost:1313/geography/dragons/brathe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/geography/dragons/brathe/</guid>
+      <description>&lt;p&gt;Land of Novarel, the Rebel. They have only been in power for a few years, having usurped the previous Dragon by leading a rebellion that swept through the country. The land is mostly covered by the Kres Forest, a large temperate forest with tall, wide trees, populated mostly by elves. The last Dragon ruled as a tyrant, demanding hostages from any family that had any amount of power he founbd threatening, and used his Praetorians as the long arm of his law. Even now, civil war still wages aas Novarel tries to bring every city and town back into the fold and fights against the old loyalists.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Centra</title>
       <link>//localhost:1313/geography/dragons/centra/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -55,6 +69,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/faith/organized/</guid>
       <description>&lt;h1 id=&#34;draconic-cults&#34;&gt;Draconic Cults:&lt;/h1&gt;&#xA;&lt;p&gt;The largest group of faithful are dragon worshippers. Going by many names and each with their own unique creeds, followers worship the ancient dragons, seeking out mighty works and old wisdom. Some of them latch on to a modern dragon as a connection to the ancients, elevating them to a divine creature.&lt;/p&gt;&#xA;&lt;h1 id=&#34;crown&#34;&gt;Crown:&lt;/h1&gt;&#xA;&lt;p&gt;The second largest faith, they believe those with Crowns are living gods, divine beings with unimaginable power they use to shape the world to their liking.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Paradisi</title>
+      <link>//localhost:1313/geography/dragons/paradisi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/geography/dragons/paradisi/</guid>
+      <description>&lt;p&gt;Land of Losara, the Grass Queen. A veritable utoptia. Green fields as far as the eye can see, beautiful forests, clear watered lakes and rivers. No one goes hungry, everyone pitches in, and no outsiders allowed. Through sheer force of will violence has been outlawed, and Losara always seems to know. Violations result in exile, no exceptions.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Quick Start</title>

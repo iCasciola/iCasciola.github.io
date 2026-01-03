@@ -8,6 +8,13 @@
     <language>en-us</language>
     <atom:link href="//localhost:1313/faith/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Abstracts</title>
+      <link>//localhost:1313/faith/abstracts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/faith/abstracts/</guid>
+      <description>&lt;p&gt;These beings/faiths are more than the other religions, their influence is observed and provable, yet they are definitevly less than gods, and decidedly different from the Dragons. No one can be quite sure if they are good or evil, helpful or harmful, human or monster. But they are real, and they are powerful. Often feared and worshipped in equal measure, they are the favored subjects of niche cults and small temples.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Organized Faiths</title>
       <link>//localhost:1313/faith/organized/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

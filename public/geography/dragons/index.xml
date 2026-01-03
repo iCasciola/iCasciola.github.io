@@ -8,6 +8,13 @@
     <language>en-us</language>
     <atom:link href="//localhost:1313/geography/dragons/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Brathe</title>
+      <link>//localhost:1313/geography/dragons/brathe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/geography/dragons/brathe/</guid>
+      <description>&lt;p&gt;Land of Novarel, the Rebel. They have only been in power for a few years, having usurped the previous Dragon by leading a rebellion that swept through the country. The land is mostly covered by the Kres Forest, a large temperate forest with tall, wide trees, populated mostly by elves. The last Dragon ruled as a tyrant, demanding hostages from any family that had any amount of power he founbd threatening, and used his Praetorians as the long arm of his law. Even now, civil war still wages aas Novarel tries to bring every city and town back into the fold and fights against the old loyalists.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Centra</title>
       <link>//localhost:1313/geography/dragons/centra/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -27,6 +34,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/geography/dragons/mithral/</guid>
       <description>&lt;p&gt;The land of the Smith King. Hundreds, perhaps even thousands of miles of tunnels and caverns. Some carved by hand, some carved by dragons, and some developed from natural forces. Dwarves have spread through the entire area under the Dizazrha mountain range. They mostly gather in massive cities. They organize into clans, loosely connected by blood and bond.&lt;/p&gt;&#xA;&lt;p&gt;The Smith King&amp;rsquo;s influence covers the entire mountain range. Under his protection and governed by his hand selected council of ministers. Many skilled craftsmen create weapons and armor from precious minerals found int he mountains.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Paradisi</title>
+      <link>//localhost:1313/geography/dragons/paradisi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/geography/dragons/paradisi/</guid>
+      <description>&lt;p&gt;Land of Losara, the Grass Queen. A veritable utoptia. Green fields as far as the eye can see, beautiful forests, clear watered lakes and rivers. No one goes hungry, everyone pitches in, and no outsiders allowed. Through sheer force of will violence has been outlawed, and Losara always seems to know. Violations result in exile, no exceptions.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Thel</title>
