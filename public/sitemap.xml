@@ -24,6 +24,10 @@
   </url><url>
     <loc>//localhost:1313/</loc>
   </url><url>
+    <loc>//localhost:1313/geography/free-peoples/loch/</loc>
+  </url><url>
+    <loc>//localhost:1313/geography/dragons/lomb/</loc>
+  </url><url>
     <loc>//localhost:1313/geography/dragons/mithral/</loc>
   </url><url>
     <loc>//localhost:1313/faith/organized/</loc>
@@ -32,15 +36,11 @@
   </url><url>
     <loc>//localhost:1313/character-creation/races/</loc>
   </url><url>
-    <loc>//localhost:1313/geography/dragons/sola/</loc>
-  </url><url>
     <loc>//localhost:1313/geography/free-peoples/storm-riders/</loc>
   </url><url>
     <loc>//localhost:1313/tags/</loc>
   </url><url>
     <loc>//localhost:1313/geography/free-peoples/library/</loc>
-  </url><url>
-    <loc>//localhost:1313/faith/votw/</loc>
   </url><url>
     <loc>//localhost:1313/geography/dragons/thel/</loc>
   </url><url>

@@ -12,7 +12,7 @@
       <link>//localhost:1313/geography/dragons/centra/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/geography/dragons/centra/</guid>
-      <description>&lt;p&gt;The land of The Witch King.&lt;/p&gt;</description>
+      <description>&lt;p&gt;The land of The Witch King. Entirely made up of the foothills stretching from the Dizazrha mountains to the barrier mountains around the Rot Queen&amp;rsquo;s land.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Dizazhra Mountain People</title>
@@ -29,11 +29,25 @@
       <description>&lt;p&gt;Where once was the greatest city in human history, remains a sunken crater the size of a small country. Situated between the Poltec Sea and the Gulf of Miracle, only narrow land passasges remain to the west and east of grave, connecting the northern and southern regions of the continent.&lt;/p&gt;&#xA;&lt;p&gt;Chaotic magic collects in the basin, and wickedly powerful monsters spawn out of the waters that stagnate there. The creatures protect the last of the great empire&amp;rsquo;s extremely vast wealth.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Loch Sword School</title>
+      <link>//localhost:1313/geography/free-peoples/loch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/geography/free-peoples/loch/</guid>
+      <description>&lt;p&gt;Both a school dedicated to producing high quality fighters, and a maintained group of mercenaries. Graduates focus on VIP protection, caravan escort, and in rare cases, assassinations.&#xA;The school is extremely well regarded and enjoys customers from all across the continent, though mostly is hired from sources inside the Thel&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lomb</title>
+      <link>//localhost:1313/geography/dragons/lomb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/geography/dragons/lomb/</guid>
+      <description>&lt;p&gt;The land of The Sword King. Before Solomon took the Crown from the previous dragon 12 years ago, the land was a conglomerate of city states that operated as a single nation. Now, the city states are isolated and fearful of each other, and all answer to the King.&lt;/p&gt;&#xA;&lt;p&gt;The vasts majority of Lomb is covered by the Candlestick Dunes, large pillars of stone that dot an otherwise flat landscape. Cities and settlements are mostly built into the pillars with small towns dotted throughout the dunes.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Mithral</title>
       <link>//localhost:1313/geography/dragons/mithral/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/geography/dragons/mithral/</guid>
-      <description>&lt;p&gt;The land of the Smith King&lt;/p&gt;</description>
+      <description>&lt;p&gt;The land of the Smith King. Hundreds, perhaps even thousands of miles of tunnels and caverns. Some carved by hand, some carved by dragons, and some developed from natural forces. Dwarves have spread through the entire area under the Dizazrha mountain range. They mostly gather in massive cities. They organize into clans, loosely connected by blood and bond.&lt;/p&gt;&#xA;&lt;p&gt;The Smith King&amp;rsquo;s influence covers the entire mountain range. Under his protection and governed by his hand selected council of ministers. Many skilled craftsmen create weapons and armor from precious minerals found int he mountains.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Organized Faiths</title>
@@ -57,18 +71,11 @@
       <description>&lt;p&gt;Fill this out when we decide what system to use&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Sola</title>
-      <link>//localhost:1313/geography/dragons/sola/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/geography/dragons/sola/</guid>
-      <description>&lt;p&gt;The land of The Sword King&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Storm Riders</title>
       <link>//localhost:1313/geography/free-peoples/storm-riders/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/geography/free-peoples/storm-riders/</guid>
-      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;DM! DM! Can I be one of these guys??&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Of course! As you can see, there is very little info below, just ask me for more info and I&amp;rsquo;ll send you more lore, and we can figure out why your not chilling in the clouds&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Extremely little is known about these peoples.In the modern period, the Storm Riders seem closer to a large cult than they do an esteemed civilization. They hide in the clouds and are essentially unknown to the rest of the world. They worship a god they call Sturm, and wield powerful  magics based on storms. Lightning, wind, and rain are their favored materials.&lt;/p&gt;</description>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;DM! DM! Can I be one of these guys??&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Of course! As you can see, there is very little info below, just ask me for more info and I&amp;rsquo;ll send you more lore, and we can figure out why you&amp;rsquo;re not chilling in the clouds&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Extremely little is known about these peoples. In the modern period, the Storm Riders seem closer to a large cult than they do an esteemed civilization. They hide in the clouds and are essentially unknown to the rest of the world. They worship a god they call Sturm, and wield powerful  magics based on storms. Lightning, wind, and rain are their favored materials.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Great Library</title>
@@ -76,13 +83,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/geography/free-peoples/library/</guid>
       <description>&lt;p&gt;A city in its own right, The Great Library has existed since before the shattering war. They have a headquarters in the North of the continent, but have hundreds of smaller outposts where scholars gather to collect and study ancient tomes, conduct research, and hoard knowledge scattered throughout the continent.&lt;/p&gt;&#xA;&lt;p&gt;In general, they act as a mostly benevolent force. As an organization they have no push towards accumulating power (in the traditional sense), though some individuals may try and steer them that way.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Voice of the World</title>
-      <link>//localhost:1313/faith/votw/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/faith/votw/</guid>
-      <description>&lt;p&gt;A mysterious force exists in the world, perhaps the closest things to actual gods that exist in the Shattered Lands. There seem to be spirits of a kind that inhabit the lands, and sometimes they can speak to the mortals of this world. For most the speech is incomprehensible, closer to a random feeling they get nudging them one way or another, but sometimes the spirit speaks up, and its voice can be heard like a whisper deep in your head.&#xA;This manifests in different ways. Perhaps somewhere in a city, violence is going to take place, folks might hear the city telling them to avoid a certain street. A forest might whisper of the monster that lurks deep within, or a mountain might carry word of what it sees on top of its peak.&#xA;It takes practice to be able to hear the voice at will, most people will likely only hear it a few times in their life when it is loud, and they are unlikely to comprehend or know they&amp;rsquo;ve heard it at all.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Thel</title>

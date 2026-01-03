@@ -10,7 +10,7 @@ The History of Tu'um Mundi is split into five ages, each one marked by new techn
 
 # The First Era - Rule of the Dragon Gods
 ### ~20,000 Years
-Not much is know about this time. Humanity was little more than wandering tribes, barely speaking or writing, and Dragonic Gods ruled.
+Not much is know about this time. Humanity was little more than wandering tribes, barely speaking or writing, and Draconic Gods ruled.
 The most powerful of the dragons foresaw their destruction, and in an effort to save themselves, they created the 10 Crowns.
 But these were not enough, in spite of the power of the Crowns, the great Draconic Gods perished. In their absence, their great works fell to ruin, monsters that had been pray became predator, and humanity gained a chance to step out from under their shadow.
 

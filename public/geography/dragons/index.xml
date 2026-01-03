@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dragon&#39;s Land on The Shattered Lands of Tu&#39;um  Mundi</title>
+    <title>Dragons on The Shattered Lands of Tu&#39;um  Mundi</title>
     <link>//localhost:1313/geography/dragons/</link>
-    <description>Recent content in Dragon&#39;s Land on The Shattered Lands of Tu&#39;um  Mundi</description>
+    <description>Recent content in Dragons on The Shattered Lands of Tu&#39;um  Mundi</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="//localhost:1313/geography/dragons/index.xml" rel="self" type="application/rss+xml" />
@@ -12,21 +12,21 @@
       <link>//localhost:1313/geography/dragons/centra/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/geography/dragons/centra/</guid>
-      <description>&lt;p&gt;The land of The Witch King.&lt;/p&gt;</description>
+      <description>&lt;p&gt;The land of The Witch King. Entirely made up of the foothills stretching from the Dizazrha mountains to the barrier mountains around the Rot Queen&amp;rsquo;s land.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lomb</title>
+      <link>//localhost:1313/geography/dragons/lomb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/geography/dragons/lomb/</guid>
+      <description>&lt;p&gt;The land of The Sword King. Before Solomon took the Crown from the previous dragon 12 years ago, the land was a conglomerate of city states that operated as a single nation. Now, the city states are isolated and fearful of each other, and all answer to the King.&lt;/p&gt;&#xA;&lt;p&gt;The vasts majority of Lomb is covered by the Candlestick Dunes, large pillars of stone that dot an otherwise flat landscape. Cities and settlements are mostly built into the pillars with small towns dotted throughout the dunes.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mithral</title>
       <link>//localhost:1313/geography/dragons/mithral/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/geography/dragons/mithral/</guid>
-      <description>&lt;p&gt;The land of the Smith King&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Sola</title>
-      <link>//localhost:1313/geography/dragons/sola/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/geography/dragons/sola/</guid>
-      <description>&lt;p&gt;The land of The Sword King&lt;/p&gt;</description>
+      <description>&lt;p&gt;The land of the Smith King. Hundreds, perhaps even thousands of miles of tunnels and caverns. Some carved by hand, some carved by dragons, and some developed from natural forces. Dwarves have spread through the entire area under the Dizazrha mountain range. They mostly gather in massive cities. They organize into clans, loosely connected by blood and bond.&lt;/p&gt;&#xA;&lt;p&gt;The Smith King&amp;rsquo;s influence covers the entire mountain range. Under his protection and governed by his hand selected council of ministers. Many skilled craftsmen create weapons and armor from precious minerals found int he mountains.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Thel</title>
