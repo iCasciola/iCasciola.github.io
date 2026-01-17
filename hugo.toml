@@ -78,12 +78,12 @@ enableMissingTranslationPlaceholders = false
 
     [[menu.main]]
         name =  "Foundry"
-        url = ""
+        url = "http://fitzyshouse.duckdns.org:30000/"
         weight = 3
         identifier = 'foundry'
 
 # Markup configure section
-# See https://gohugo.io/getting-started/configuration-markup/
+# See https://gohugo.io/getting-started/configuration-markup/s
 [markup]
     defaultMarkdownHandler = "goldmark"
     [markup.goldmark.renderer]
