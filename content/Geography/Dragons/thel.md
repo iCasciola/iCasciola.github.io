@@ -10,8 +10,8 @@ The mountains to the north and to the west are homes to distinct clans of  Dwarv
 The plains to the northeast are homes to families of  Halflings  while the hills to the southwest are homes to  Gnomes .
 
 # Outside the Borders
-The land between Thel and Sola is filled with nomadic tribes of orcs and dragonborn, with  Oberpoint  serving as an established city in the center of the Badlands.
-The land between the Bright Queen's land and the  Land of the Grass Queen  is settled and rules by a king with no  Crowns  who rules from  The Twin Cities 
+The land between Thel and Sola is filled with nomadic tribes of orcs and dragonborn, with Oberpoint  serving as an established city in the center of the Badlands.
+The land between the Bright Queen's land and the Land of the Grass Queen  is settled and rules by a king with no Crowns who rules from The Twin Cities 
 
 # Quality of Life
 The Bright Queen takes care of her subjects, but is also acutely aware of how large her territory is. She is forced to allow some autonomy from a selected group of loyal vassals, selected from the ranks of people she believes she can trust. 

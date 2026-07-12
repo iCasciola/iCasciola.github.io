@@ -7,5 +7,12 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="//localhost:1313/history/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thel Rebellion</title>
+      <link>//localhost:1313/history/thel-rebellion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/history/thel-rebellion/</guid>
+      <description>&lt;p&gt;The Thel Rebellion of 998 was not the first time that peasants have risen up to break their chains, but it is the largest in recent history. It started in the early spring of 998, in a small village in the north of the country.&lt;/p&gt;&#xA;&lt;p&gt;Local peasants formed a militia, forming around the charismatic town leader, Johanne Murk. They took over their Baron&amp;rsquo;s castle while he was away at court, and when he was summoned back and he formed his own army, they fought. The rebels asked for assistance from other nearby villages, laying out their grievances. The other villages joined in the fight.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
