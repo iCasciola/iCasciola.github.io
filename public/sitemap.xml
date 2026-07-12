@@ -50,6 +50,8 @@
   </url><url>
     <loc>//localhost:1313/geography/dragons/thel/</loc>
   </url><url>
+    <loc>//localhost:1313/history/thel-rebellion/</loc>
+  </url><url>
     <loc>//localhost:1313/geography/free-peoples/twin-cities/</loc>
   </url>
 </urlset>

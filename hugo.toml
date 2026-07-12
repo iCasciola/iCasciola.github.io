@@ -78,7 +78,7 @@ enableMissingTranslationPlaceholders = false
 
     [[menu.main]]
         name =  "Foundry"
-        url = "http://fitzyshouse.duckdns.org:30000/"
+        url = "http://fitzy.wtf:30000/"
         weight = 3
         identifier = 'foundry'
 
